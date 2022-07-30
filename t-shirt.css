@@ -1,0 +1,19 @@
+.page .row .number{
+    background-color: #252525ea;
+    color: #fdfdfd;
+    padding: 13px 0px;
+    margin: 0% 10px;
+    font-size: 1.4em;
+
+}
+.page .row .number a{
+    text-decoration: none;
+    color: #fff;
+}
+.page .row .number:hover{
+    background-color: #000000;
+}
+.page .row .number li{
+    list-style-type: none;
+    
+}
